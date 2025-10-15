@@ -35,6 +35,8 @@ public class Single {
 		for (Object support : values2) {
 			System.out.println(support);
 		}
+		
+		System.out.println("Scripting done");
 	}
 
 }
