@@ -36,6 +36,7 @@ public class Single {
 			System.out.println(support);
 		}
 		
+		System.out.println("Scripting done");
 		System.out.println("reScripting for tester2");
 	}
 	
