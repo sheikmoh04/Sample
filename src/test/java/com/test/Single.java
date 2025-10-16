@@ -37,7 +37,8 @@ public class Single {
 		}
 		
 		System.out.println("Scripting done");
-		System.out.println("reScripting for tester2");
+		System.out.println("Scripting done by Tester2");
+		System.out.println("conflict");
 	}
 	
 	
