@@ -37,7 +37,8 @@ public class Single {
 		}
 		
 		System.out.println("Tester 3");
-		System.out.println("update two lines");
+		System.out.println("update two lines"+" Checking");
+		System.out.println("checking again");
 	}
 	
 	
