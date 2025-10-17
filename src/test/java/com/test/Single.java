@@ -40,6 +40,9 @@ public class Single {
 		System.out.println("update two lines"+" Checking");
 		System.out.println("checking again");
 		System.out.println("Tester 3 checking again");
+		System.out.println("Scripting done");
+		System.out.println("Scripting done by Tester2");
+		System.out.println("conflict");
 	}
 	
 	
